@@ -1,5 +1,5 @@
 <h2 align="center"> Olá, seja bem vindo! </h2>
-<h4> Me chamo Guilhemre, sou desenvolvedor Frontend, fique a vontade para entrar em contato e tirar duvidas sobre mim e meus projetos! </h4>
+<h4> Me chamo Guilherme, sou desenvolvedor Frontend, fique a vontade para entrar em contato e tirar duvidas sobre mim e meus projetos! </h4>
 
 ##
 
