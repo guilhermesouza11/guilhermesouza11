@@ -1,5 +1,7 @@
-### Olá, seja bem vindo!
+<h2 align="center"> Olá, seja bem vindo! </h2>
+<h4> Me chamo Guilhemre, sou desenvolvedor Frontend, fique a vontade para entrar em contato e tirar duvidas sobre mim e meus projetos! </h4>
 
+##
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/guilhermesouza11">
@@ -23,8 +25,3 @@
   ![Snake animation](https://github.com/guilhermesouza11/guilhermesouza11/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-![perfil_nasty](https://user-images.githubusercontent.com/48285600/155328400-d2c16e86-a1aa-4fd6-bb90-6e2714f36701.png)
-
-
-
