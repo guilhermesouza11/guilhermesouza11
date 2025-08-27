@@ -6,4 +6,4 @@ I'm Guilherme, a web software development student and an audiovisual enthusiast,
 - I'm interested in learning **TypeScript**, **React**, **Node.js**, **Git**, **Next.js**, **Docker**, **Testes (Jest, Cypress)** 
 - I also want to acquire knowledge of **prompt com Inteligência Artificial** e **DevOps**  
 
-Feel free to reach out to me, let’s grab a coffee and chat about ideas and exciting opportunities!☕
+Feel free to reach out to me, let’s grab a coffee and chat about ideas and exciting opportunities!###☕
